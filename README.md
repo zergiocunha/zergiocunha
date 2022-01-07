@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Sergio Cunha 👋
+### Olá! Eu me chamo Sergio Cunha 👋  | Hello! My name is Sergio Cunha
 
 - 🔭 Hoje trabalho com .NET Full Stack                 |  Today I work with .NET Full Stack
 - 🌱 Estudando C#, SQL Server e Entity Framework Core  |  Studying C#, SQL Server and Entity Framework Core
