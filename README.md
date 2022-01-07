@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com .NET Full Stack                 |  Today I work with .NET Full Stack
 - 🌱 Estudando C#, SQL Server e Entity Framework Core  |  Studying C#, SQL Server and Entity Framework Core
 - 📫 Contate-me no  email: zergiocunha@gmail.com       |  Contact me by email: zergiocunha@gmail.com
-- 😄 Pronomes: ele/dele                                |  Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/zergiocunha">
