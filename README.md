@@ -1,6 +1,6 @@
-### Olá! Eu me chamo Sergio Cunha 👋  
+### Olá! Me chamo Sergio Cunha 👋  
 
-- 🔭 Hoje trabalho com .NET Full Stack                 
+- 🔭 Hoje trabalho com .NET               
 - 🌱 Estudando C#, SQL Server e Entity Framework Core  
 - 📫 Contate-me no  email: zergiocunha@gmail.com       
 
