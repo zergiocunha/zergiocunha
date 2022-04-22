@@ -1,7 +1,7 @@
 ### Olá! Me chamo Sergio Cunha 👋  
 
 - 🔭 Hoje trabalho com .NET               
-- 🌱 Estudando C#, SQL Server e Entity Framework Core  
+- 🌱 Estudando C#, Node JS, .NET e T-SQL 
 - 📫 Contate-me no  email: zergiocunha@gmail.com       
 
 <div align="center">
@@ -11,7 +11,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Zergio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Zergio-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Zergio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Zergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Zergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Zergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
