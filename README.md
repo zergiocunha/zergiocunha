@@ -1,7 +1,7 @@
 ### Olá! Me chamo Sergio Cunha 👋  
 
 - 🔭 Hoje trabalho com .NET               
-- 🌱 Estudando C#, Node JS, .NET e T-SQL 
+- 🌱 Estudando NodeJS, React Native, ReactJS, Typescript, C#, .NET e T-SQL 
 - 📫 Contate-me no  email: zergiocunha@gmail.com       
 
 <div align="center">
