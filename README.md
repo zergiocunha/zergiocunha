@@ -1,7 +1,7 @@
 ### Olá! Me chamo Sergio Cunha 👋  
 
-- 🔭 Hoje trabalho com .NET e React Native            
-- 🌱 Estudando C#, .NET e NoSQL
+- 🔭 Hoje trabalho com .NET e Python           
+- 🌱 Estudando Flutter
 - 📫 Contate-me no  email: zergiocunha@gmail.com       
 
 <div align="center">
