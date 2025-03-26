@@ -24,9 +24,3 @@
   <img align="center" alt="Zergio-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Zergio-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
-
----
-
-<div align="center">
-  <img alt="Zergio-pic" height="350" style="border-radius: 10px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
