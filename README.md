@@ -11,13 +11,10 @@
 </div>
   
   <div style="display: inline_block"><br>
+  <img align="center" alt="Zergio-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Zergio-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Zergio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Zergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Zergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Zergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="right" alt="Zergio-pic" height="150" style="border-radius:50px;" 
-         src="https://i.picasion.com/pic91/02f94835b181c23a44f13c94bb3235ef.gif">
+  <img align="center" alt="Zergio-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="right" alt="Zergio-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/02f94835b181c23a44f13c94bb3235ef.gif">
 </div>
     
   ##
