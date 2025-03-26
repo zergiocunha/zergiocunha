@@ -17,15 +17,15 @@
 
 ### 🚀 Tecnologias que utilizo:
 
-<div align="center">
-  <img align="center" alt="Zergio-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Zergio-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Zergio-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Zergio-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<div align="right">
+  <img align="right" alt="Zergio-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="right" alt="Zergio-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="right" alt="Zergio-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="right" alt="Zergio-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
 ---
 
-<div align="center">
+<div align="right">
   <img alt="Zergio-pic" height="350" style="border-radius: 10px;" src="https://i.picasion.com/pic91/02f94835b181c23a44f13c94bb3235ef.gif">
 </div>
